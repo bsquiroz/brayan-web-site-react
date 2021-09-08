@@ -1,0 +1,19 @@
+.style_input {
+    display: flex;
+    margin-bottom: 0.5em;
+}
+
+.style_input input {
+    outline: none;
+    border: none;
+    padding-left: 1em;
+}
+
+.box_icon {
+    width: 30px;
+    background-color: #fff;
+    border-right: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,24 @@
+.navbar {
+    height: 50px;
+    background-color: #001d3b;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    font-weight: bold;
+    color: #fff;
+    margin-left: 1rem;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li {
+    margin-right: 1rem;
+}
+
+.menu li a {
+    color: #fff;
+}
